@@ -1,0 +1,25 @@
+{
+  "name": "demon-dog",
+  "description": "cwazy doggie",
+  "start_url": "doggo.glb",
+  "components": [
+    {
+      "key": "physics",
+      "value": true
+    },
+    {
+      "key": "look",
+      "value": {
+        "rootBone": "Neck_1"
+      }
+    },
+    {
+      "key": "pet",
+      "value": {
+        "idleAnimation": "",
+        "walkAnimation": "Walk",
+        "runAnimation": ""
+      }
+    }
+  ]
+}
