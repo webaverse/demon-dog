@@ -20,7 +20,8 @@
         "walkAnimation": "Walk",
         "runAnimation": "Run",
         "jumpAnimation": "Jump",
-        "hitAnimation": "Hit"
+        "hitAnimation": "Hit",
+        "attackAnimation": "Attack"
       }
     }
   ]
