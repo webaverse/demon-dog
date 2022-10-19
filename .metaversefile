@@ -18,7 +18,9 @@
       "value": {
         "idleAnimation": "Idle",
         "walkAnimation": "Walk",
-        "runAnimation": "Run"
+        "runAnimation": "Run",
+        "jumpAnimation": "Jump",
+        "hitAnimation": "Hit"
       }
     }
   ]
